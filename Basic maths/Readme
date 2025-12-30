@@ -1,10 +1,14 @@
-📘 Basic Maths Programs in C++
+## 📘 Basic Maths Programs in C++
 
-This folder contains basic mathematics programs implemented in C++, mainly focused on building strong fundamentals for beginners and interview preparation.
+This folder contains basic mathematics programs implemented in **C++**, mainly focused on building strong fundamentals for beginners and interview preparation.
 
 Each program solves a common mathematical problem using simple logic and clean code.
 
-📂 Folder Structure
+---
+
+## 📂 Folder Structure
+
+```
 Basic Maths/
 │
 ├── Armstrong.cpp
@@ -15,74 +19,82 @@ Basic Maths/
 ├── Planedrome.cpp
 ├── Prime number.cpp
 └── README.md
+```
 
-🧮 Programs Included
-1. Armstrong Number
+---
 
-Checks whether a given number is an Armstrong number.
+## 🧮 Programs Included
 
-Example: 153 → 1³ + 5³ + 3³ = 153
+### 1. **Armstrong Number**
 
-2. Digit Count
+* Checks whether a given number is an Armstrong number.
+* Example: `153 → 1³ + 5³ + 3³ = 153`
 
-Counts the number of digits in a given integer.
+### 2. **Digit Count**
 
-3. Digit Reverse
+* Counts the number of digits in a given integer.
 
-Reverses the digits of a given number.
+### 3. **Digit Reverse**
 
-Example: 123 → 321
+* Reverses the digits of a given number.
+* Example: `123 → 321`
 
-4. Divisors
+### 4. **Divisors**
 
-Prints all divisors of a given number.
+* Prints all divisors of a given number.
 
-5. GCD (Greatest Common Divisor)
+### 5. **GCD (Greatest Common Divisor)**
 
-Finds the GCD of two numbers using an efficient approach.
+* Finds the GCD of two numbers using an efficient approach.
 
-6. Palindrome Number
+### 6. **Palindrome Number**
 
-Checks whether a number is a palindrome.
+* Checks whether a number is a palindrome.
+* Example: `121 → Palindrome`
 
-Example: 121 → Palindrome
+### 7. **Prime Number**
 
-7. Prime Number
+* Checks whether a given number is prime or not.
 
-Checks whether a given number is prime or not.
+---
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-Language: C++
+* **Language:** C++
+* **Concepts:** Loops, Conditionals, Functions, Basic Math Logic
 
-Concepts: Loops, Conditionals, Functions, Basic Math Logic
+---
 
-🚀 How to Run
+## 🚀 How to Run
 
-Clone the repository:
+1. Clone the repository:
 
-git clone <your-repo-link>
+   ```bash
+   git clone <your-repo-link>
+   ```
+2. Navigate to the folder:
 
+   ```bash
+   cd "Basic Maths"
+   ```
+3. Compile and run any file:
 
-Navigate to the folder:
+   ```bash
+   g++ filename.cpp
+   ./a.out
+   ```
 
-cd "Basic Maths"
+---
 
+## 🎯 Purpose
 
-Compile and run any file:
+* Strengthen basic problem-solving skills
+* Practice C++ fundamentals
+* Useful for coding interviews and competitive programming
 
-g++ filename.cpp
-./a.out
+---
 
-🎯 Purpose
+## 👤 Author
 
-Strengthen basic problem-solving skills
-
-Practice C++ fundamentals
-
-Useful for coding interviews and competitive programming
-
-👤 Author
-
-B Rohit Kumar
+**B Rohit Kumar**
 B.Tech CSE | Aspiring Software Engineer
