@@ -1,0 +1,88 @@
+📘 Basic Maths Programs in C++
+
+This folder contains basic mathematics programs implemented in C++, mainly focused on building strong fundamentals for beginners and interview preparation.
+
+Each program solves a common mathematical problem using simple logic and clean code.
+
+📂 Folder Structure
+Basic Maths/
+│
+├── Armstrong.cpp
+├── Digitcount.cpp
+├── DigitReverse.cpp
+├── divisors.cpp
+├── GCD.cpp
+├── Planedrome.cpp
+├── Prime number.cpp
+└── README.md
+
+🧮 Programs Included
+1. Armstrong Number
+
+Checks whether a given number is an Armstrong number.
+
+Example: 153 → 1³ + 5³ + 3³ = 153
+
+2. Digit Count
+
+Counts the number of digits in a given integer.
+
+3. Digit Reverse
+
+Reverses the digits of a given number.
+
+Example: 123 → 321
+
+4. Divisors
+
+Prints all divisors of a given number.
+
+5. GCD (Greatest Common Divisor)
+
+Finds the GCD of two numbers using an efficient approach.
+
+6. Palindrome Number
+
+Checks whether a number is a palindrome.
+
+Example: 121 → Palindrome
+
+7. Prime Number
+
+Checks whether a given number is prime or not.
+
+🛠️ Technologies Used
+
+Language: C++
+
+Concepts: Loops, Conditionals, Functions, Basic Math Logic
+
+🚀 How to Run
+
+Clone the repository:
+
+git clone <your-repo-link>
+
+
+Navigate to the folder:
+
+cd "Basic Maths"
+
+
+Compile and run any file:
+
+g++ filename.cpp
+./a.out
+
+🎯 Purpose
+
+Strengthen basic problem-solving skills
+
+Practice C++ fundamentals
+
+Useful for coding interviews and competitive programming
+
+👤 Author
+
+B Rohit Kumar
+B.Tech CSE | Aspiring Software Engineer
