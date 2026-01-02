@@ -36,10 +36,8 @@ patterns-2/
 Prints a triangle of alternating `0` and `1` based on row and column positions.
 
 Example:
-```
-<img width="130" height="128" alt="image" src="https://github.com/user-attachments/assets/e4201816-8ba0-4bf1-a4e9-59bd4b6b42a1" />
 
-```
+<img width="130" height="128" alt="Pattern 11 Output" src="https://github.com/user-attachments/assets/e4201816-8ba0-4bf1-a4e9-59bd4b6b42a1" />
 
 ---
 
@@ -47,12 +45,8 @@ Example:
 Prints numbers increasing on the left and decreasing on the right with spaces in between.
 
 Example:
-```
 
-<img width="96" height="106" alt="image" src="https://github.com/user-attachments/assets/8e5ff42f-32f1-4ccb-85d7-bfa6a61b03fa" />
-
-
-```
+<img width="96" height="106" alt="Pattern 12 Output" src="https://github.com/user-attachments/assets/8e5ff42f-32f1-4ccb-85d7-bfa6a61b03fa" />
 
 ---
 
@@ -60,12 +54,8 @@ Example:
 Prints continuous increasing numbers in a triangular format.
 
 Example:
-```
 
-<img width="136" height="126" alt="image" src="https://github.com/user-attachments/assets/ffbe18b1-f21c-4fc3-b300-bc2ff72d80ea" />
-
-
-```
+<img width="136" height="126" alt="Pattern 13 Output" src="https://github.com/user-attachments/assets/ffbe18b1-f21c-4fc3-b300-bc2ff72d80ea" />
 
 ---
 
@@ -73,12 +63,8 @@ Example:
 Prints increasing alphabets in each row.
 
 Example:
-```
 
-<img width="100" height="126" alt="image" src="https://github.com/user-attachments/assets/e79554fc-d1bb-4489-b142-14344a48dbb2" />
-
-
-```
+<img width="100" height="126" alt="Pattern 14 Output" src="https://github.com/user-attachments/assets/e79554fc-d1bb-4489-b142-14344a48dbb2" />
 
 ---
 
@@ -86,12 +72,8 @@ Example:
 Prints alphabets in decreasing order per row.
 
 Example:
-```
 
-<img width="99" height="123" alt="image" src="https://github.com/user-attachments/assets/d8554f8e-a110-43dc-9e29-a60f14b3a701" />
-
-
-```
+<img width="99" height="123" alt="Pattern 15 Output" src="https://github.com/user-attachments/assets/d8554f8e-a110-43dc-9e29-a60f14b3a701" />
 
 ---
 
@@ -99,12 +81,8 @@ Example:
 Prints the same alphabet multiple times per row.
 
 Example:
-```
 
-<img width="111" height="119" alt="image" src="https://github.com/user-attachments/assets/2a2cccd0-2501-474d-aa9e-c1abd017ef42" />
-
-
-```
+<img width="111" height="119" alt="Pattern 16 Output" src="https://github.com/user-attachments/assets/2a2cccd0-2501-474d-aa9e-c1abd017ef42" />
 
 ---
 
@@ -112,12 +90,8 @@ Example:
 Creates a palindromic alphabet pyramid.
 
 Example:
-```
 
-<img width="101" height="104" alt="image" src="https://github.com/user-attachments/assets/26ee3e63-9359-40c4-9dd4-5e0cf8fdd89d" />
-
-
-```
+<img width="101" height="104" alt="Pattern 17 Output" src="https://github.com/user-attachments/assets/26ee3e63-9359-40c4-9dd4-5e0cf8fdd89d" />
 
 ---
 
@@ -125,12 +99,8 @@ Example:
 Prints reverse alphabetical sequence starting from the last alphabet.
 
 Example:
-```
 
-<img width="129" height="135" alt="image" src="https://github.com/user-attachments/assets/5b186403-52aa-480e-be11-b3198623c557" />
-
-
-```
+<img width="129" height="135" alt="Pattern 18 Output" src="https://github.com/user-attachments/assets/5b186403-52aa-480e-be11-b3198623c557" />
 
 ---
 
@@ -138,12 +108,8 @@ Example:
 Combination of two mirrored star triangles forming a symmetric pattern.
 
 Example:
-```
 
-<img width="132" height="246" alt="image" src="https://github.com/user-attachments/assets/7b263ec5-14ea-4081-b3c5-240100c1a213" />
-
-
-```
+<img width="132" height="246" alt="Pattern 19 Output" src="https://github.com/user-attachments/assets/7b263ec5-14ea-4081-b3c5-240100c1a213" />
 
 ---
 
@@ -151,15 +117,8 @@ Example:
 Stars printed on both sides with increasing middle spaces.
 
 Example:
-```
 
-<img width="124" height="214" alt="image" src="https://github.com/user-attachments/assets/971dd2ac-b428-4d52-ba1c-01384d3415db" />
-
----
-
----
-
-```
+<img width="124" height="214" alt="Pattern 20 Output" src="https://github.com/user-attachments/assets/971dd2ac-b428-4d52-ba1c-01384d3415db" />
 
 ---
 
@@ -167,15 +126,8 @@ Example:
 Prints a square with stars only on the boundary.
 
 Example:
-```
 
----
-
-<img width="84" height="145" alt="image" src="https://github.com/user-attachments/assets/8fe4bde1-1cae-46d2-9f37-0b7044c3427d" />
-
----
-
-```
+<img width="84" height="145" alt="Pattern 21 Output" src="https://github.com/user-attachments/assets/8fe4bde1-1cae-46d2-9f37-0b7044c3427d" />
 
 ---
 
@@ -183,11 +135,8 @@ Example:
 Prints concentric layers of numbers in a square format.
 
 Example (n = 4):
-```
 
-<img width="135" height="169" alt="image" src="https://github.com/user-attachments/assets/a4527ce1-de6e-4696-abe2-15d999032836" />
-
-```
+<img width="135" height="169" alt="Pattern 22 Output" src="https://github.com/user-attachments/assets/a4527ce1-de6e-4696-abe2-15d999032836" />
 
 ---
 
