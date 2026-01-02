@@ -34,12 +34,8 @@ patterns-1/
 Prints a rectangle consisting of stars.
 
 Example:
-```
 
-<img width="69" height="127" alt="image" src="https://github.com/user-attachments/assets/c8b8b115-a273-473e-bba0-33a06ed5fe3a" />
-
-
-```
+<img width="69" height="127" alt="Pattern 1 Output" src="https://github.com/user-attachments/assets/c8b8b115-a273-473e-bba0-33a06ed5fe3a" />
 
 ---
 
@@ -47,12 +43,8 @@ Example:
 Prints a right-angled triangle using stars.
 
 Example:
-```
 
-<img width="67" height="120" alt="image" src="https://github.com/user-attachments/assets/5e23f399-d5c8-4bfa-9032-8b0ff9ba94c1" />
-
-
-```
+<img width="67" height="120" alt="Pattern 2 Output" src="https://github.com/user-attachments/assets/5e23f399-d5c8-4bfa-9032-8b0ff9ba94c1" />
 
 ---
 
@@ -60,12 +52,8 @@ Example:
 Prints numbers in increasing order for each row.
 
 Example:
-```
 
-<img width="79" height="126" alt="image" src="https://github.com/user-attachments/assets/99e70050-0c52-4645-a5ca-9afba2b12340" />
-
-
-```
+<img width="79" height="126" alt="Pattern 3 Output" src="https://github.com/user-attachments/assets/99e70050-0c52-4645-a5ca-9afba2b12340" />
 
 ---
 
@@ -73,12 +61,8 @@ Example:
 Each row prints the same number equal to the row index.
 
 Example:
-```
 
-<img width="75" height="131" alt="image" src="https://github.com/user-attachments/assets/85f62b62-4a64-4e04-9a05-7f9ef726ef8b" />
-
-
-```
+<img width="75" height="131" alt="Pattern 4 Output" src="https://github.com/user-attachments/assets/85f62b62-4a64-4e04-9a05-7f9ef726ef8b" />
 
 ---
 
@@ -86,12 +70,8 @@ Example:
 Prints an inverted right-angled triangle of stars.
 
 Example:
-```
 
-<img width="78" height="133" alt="image" src="https://github.com/user-attachments/assets/e770e71c-2fe0-4e6d-b0e2-17f3099e36f6" />
-
-
-```
+<img width="78" height="133" alt="Pattern 5 Output" src="https://github.com/user-attachments/assets/e770e71c-2fe0-4e6d-b0e2-17f3099e36f6" />
 
 ---
 
@@ -99,12 +79,8 @@ Example:
 Prints numbers in decreasing row length.
 
 Example:
-```
 
-<img width="75" height="129" alt="image" src="https://github.com/user-attachments/assets/ee9139d7-103e-40f4-87db-51da1f95a5c8" />
-
-
-```
+<img width="75" height="129" alt="Pattern 6 Output" src="https://github.com/user-attachments/assets/ee9139d7-103e-40f4-87db-51da1f95a5c8" />
 
 ---
 
@@ -112,12 +88,8 @@ Example:
 Prints a centered pyramid of stars.
 
 Example:
-```
 
-<img width="128" height="126" alt="image" src="https://github.com/user-attachments/assets/5786668c-a598-4c7e-8b4d-b40742018e2e" />
-
-
-```
+<img width="128" height="126" alt="Pattern 7 Output" src="https://github.com/user-attachments/assets/5786668c-a598-4c7e-8b4d-b40742018e2e" />
 
 ---
 
@@ -125,12 +97,8 @@ Example:
 Prints an inverted centered pyramid of stars.
 
 Example:
-```
 
-<img width="115" height="132" alt="image" src="https://github.com/user-attachments/assets/cdd1b3a0-f220-4e52-a206-fdbdd78116a1" />
-
-
-```
+<img width="115" height="132" alt="Pattern 8 Output" src="https://github.com/user-attachments/assets/cdd1b3a0-f220-4e52-a206-fdbdd78116a1" />
 
 ---
 
@@ -138,12 +106,8 @@ Example:
 Combination of pyramid and inverted pyramid forming a diamond.
 
 Example:
-```
 
-<img width="125" height="246" alt="image" src="https://github.com/user-attachments/assets/fcf4dc0e-bb0b-4e85-8539-faa88858e84d" />
-
-
-```
+<img width="125" height="246" alt="Pattern 9 Output" src="https://github.com/user-attachments/assets/fcf4dc0e-bb0b-4e85-8539-faa88858e84d" />
 
 ---
 
@@ -151,12 +115,8 @@ Example:
 Prints a half-diamond shape using stars.
 
 Example:
-```
 
-<img width="86" height="222" alt="image" src="https://github.com/user-attachments/assets/f0af612c-786a-488e-8692-0cd05ef5bd66" />
-
-
-```
+<img width="86" height="222" alt="Pattern 10 Output" src="https://github.com/user-attachments/assets/f0af612c-786a-488e-8692-0cd05ef5bd66" />
 
 ---
 
