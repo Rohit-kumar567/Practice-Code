@@ -214,4 +214,3 @@ More pattern variations and implementations may be added in the future.
 
 Happy Coding! 🚀  
 — **B Rohit Kumar**
-```
