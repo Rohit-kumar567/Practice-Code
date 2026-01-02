@@ -1,105 +1,207 @@
-# Striver A2Z – Pattern Problems (First 10)
+Perfect 👍 crystal clear now.
 
-This repository contains my solutions to the **first 10 pattern problems** from **Striver’s A2Z DSA Sheet**.  
-The goal of this project is to strengthen **loop logic, nested iteration, and pattern visualization** using C++.
+Below is the **README.md for Problem 1 to 10**, written in **exactly the same style** as your Problems 11–22 README.
+I’ve **left image placeholders** as **`PASTE IMAGE HERE`** (as you asked).
+
+You can **copy-paste this directly** into `patterns-1/README.md` (or whatever folder you use).
+
+---
+
+```md
+# Striver DSA Patterns – Part 1 (Problems 1–10)
+
+This folder contains solutions for **Striver’s DSA Pattern Series – Patterns 1 to 10**.  
+These patterns focus on **basic loop logic, stars, numbers, spacing, and alignment**.
+
+Practicing these patterns helps build a strong foundation for:
+- Nested loops
+- Basic pattern thinking
+- Row–column relationships
+- DSA fundamentals
 
 ---
 
 ## 📂 Folder Structure
 
+patterns-1/
+├── pattern1.cpp  
+├── pattern2.cpp  
+├── pattern3.cpp  
+├── pattern4.cpp  
+├── pattern5.cpp  
+├── pattern6.cpp  
+├── pattern7.cpp  
+├── pattern8.cpp  
+├── pattern9.cpp  
+├── pattern10.cpp  
+└── README.md  
+
+---
+
+## 🧩 Pattern List & Description
+
+### 🔹 Pattern 1 – Rectangular Star Pattern
+Prints a rectangle consisting of stars.
+
+Example:
 ```
 
-patterns/
-├── pattern1.cpp
-├── pattern2.cpp
-├── pattern3.cpp
-├── pattern4.cpp
-├── pattern5.cpp
-├── pattern6.cpp
-├── pattern7.cpp
-├── pattern8.cpp
-├── pattern9.cpp
-├── pattern10.cpp
+<img width="69" height="127" alt="image" src="https://github.com/user-attachments/assets/c8b8b115-a273-473e-bba0-33a06ed5fe3a" />
 
-````
 
-Each file corresponds to one pattern problem.
+```
 
 ---
 
-## 🧩 Patterns Covered
+### 🔹 Pattern 2 – Right Angled Star Triangle
+Prints a right-angled triangle using stars.
 
-The first 10 patterns include:
-- Square star pattern
-- Right-angled triangle
-- Number patterns
-- Inverted patterns
-- Increasing & decreasing star patterns
-- Simple logic-based pattern formations
+Example:
+```
 
-These problems focus on:
-- `for` loops
-- Nested loops
-- Row–column relationships
-- Output formatting
+<img width="67" height="120" alt="image" src="https://github.com/user-attachments/assets/5e23f399-d5c8-4bfa-9032-8b0ff9ba94c1" />
+
+
+```
 
 ---
 
-## 🛠️ Tech Stack
+### 🔹 Pattern 3 – Right Angled Number Triangle
+Prints numbers in increasing order for each row.
 
-- **Language:** C++
-- **Compiler:** GCC / any standard C++ compiler
-- **Concepts Used:**
-  - Loops
-  - Conditional statements
-  - Pattern logic
+Example:
+```
 
----
+<img width="79" height="126" alt="image" src="https://github.com/user-attachments/assets/99e70050-0c52-4645-a5ca-9afba2b12340" />
 
-## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-link>
-````
-
-2. Navigate to the patterns folder:
-
-   ```bash
-   cd patterns
-   ```
-3. Compile and run any pattern file:
-
-   ```bash
-   g++ pattern1.cpp -o pattern1
-   ./pattern1
-   ```
+```
 
 ---
 
-## 🎯 Purpose
+### 🔹 Pattern 4 – Right Angled Number Triangle (Same Number)
+Each row prints the same number equal to the row index.
 
-* Build strong fundamentals in loops
-* Improve logical thinking
-* Prepare for DSA and coding interviews
-* Follow Striver’s structured learning path
+Example:
+```
 
----
+<img width="75" height="131" alt="image" src="https://github.com/user-attachments/assets/85f62b62-4a64-4e04-9a05-7f9ef726ef8b" />
 
-## 🚀 Future Plans
 
-* Complete all remaining patterns from Striver’s sheet
-* Add comments explaining logic
-* Organize patterns level-wise (Easy → Hard)
+```
 
 ---
 
-## 👨‍💻 Author
+### 🔹 Pattern 5 – Inverted Right Angled Star Triangle
+Prints an inverted right-angled triangle of stars.
 
-**B Rohit Kumar**
-BTech CSE (2025)
-Learning DSA & Problem Solving
+Example:
+```
+
+<img width="78" height="133" alt="image" src="https://github.com/user-attachments/assets/e770e71c-2fe0-4e6d-b0e2-17f3099e36f6" />
+
+
+```
 
 ---
 
-⭐ If you find this helpful, consider giving the repository a star!
+### 🔹 Pattern 6 – Inverted Number Triangle
+Prints numbers in decreasing row length.
+
+Example:
+```
+
+<img width="75" height="129" alt="image" src="https://github.com/user-attachments/assets/ee9139d7-103e-40f4-87db-51da1f95a5c8" />
+
+
+```
+
+---
+
+### 🔹 Pattern 7 – Star Pyramid
+Prints a centered pyramid of stars.
+
+Example:
+```
+
+<img width="128" height="126" alt="image" src="https://github.com/user-attachments/assets/5786668c-a598-4c7e-8b4d-b40742018e2e" />
+
+
+```
+
+---
+
+### 🔹 Pattern 8 – Inverted Star Pyramid
+Prints an inverted centered pyramid of stars.
+
+Example:
+```
+
+<img width="115" height="132" alt="image" src="https://github.com/user-attachments/assets/cdd1b3a0-f220-4e52-a206-fdbdd78116a1" />
+
+
+```
+
+---
+
+### 🔹 Pattern 9 – Diamond Star Pattern
+Combination of pyramid and inverted pyramid forming a diamond.
+
+Example:
+```
+
+<img width="125" height="246" alt="image" src="https://github.com/user-attachments/assets/fcf4dc0e-bb0b-4e85-8539-faa88858e84d" />
+
+
+```
+
+---
+
+### 🔹 Pattern 10 – Half Diamond Star Pattern
+Prints a half-diamond shape using stars.
+
+Example:
+```
+
+<img width="86" height="222" alt="image" src="https://github.com/user-attachments/assets/f0af612c-786a-488e-8692-0cd05ef5bd66" />
+
+
+```
+
+---
+
+## 🚀 Tech Stack
+- Language: **C++**
+- Concepts Used:
+  - Nested loops
+  - Conditional logic
+  - Star & number patterns
+  - Spacing and alignment
+
+---
+
+## 🎯 Goal
+The goal of this folder is to **master basic pattern logic**, which is essential for:
+- DSA problem solving
+- Competitive programming
+- Coding interviews
+
+---
+
+## 📌 Note
+More pattern variations and improvements may be added in the future.
+
+Happy Coding! 🚀  
+— **B Rohit Kumar**
+```
+
+---
+
+If you want next, I can:
+
+* ✅ Replace **PASTE IMAGE HERE** with **proper `<img>` tags**
+* ✅ Align names **100% with Striver’s official wording**
+* ✅ Create a **root README** linking Part 1 & Part 2
+* ✅ Clean the repo for **perfect GitHub presentation**
+
+Just say 👍
