@@ -1,13 +1,3 @@
-Perfect 👍 crystal clear now.
-
-Below is the **README.md for Problem 1 to 10**, written in **exactly the same style** as your Problems 11–22 README.
-I’ve **left image placeholders** as **`PASTE IMAGE HERE`** (as you asked).
-
-You can **copy-paste this directly** into `patterns-1/README.md` (or whatever folder you use).
-
----
-
-```md
 # Striver DSA Patterns – Part 1 (Problems 1–10)
 
 This folder contains solutions for **Striver’s DSA Pattern Series – Patterns 1 to 10**.  
@@ -193,15 +183,3 @@ More pattern variations and improvements may be added in the future.
 
 Happy Coding! 🚀  
 — **B Rohit Kumar**
-```
-
----
-
-If you want next, I can:
-
-* ✅ Replace **PASTE IMAGE HERE** with **proper `<img>` tags**
-* ✅ Align names **100% with Striver’s official wording**
-* ✅ Create a **root README** linking Part 1 & Part 2
-* ✅ Clean the repo for **perfect GitHub presentation**
-
-Just say 👍
