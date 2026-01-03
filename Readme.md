@@ -77,28 +77,6 @@ Key concepts learned:
 - **Striver’s DSA Sheet**
 
 ---
-
-## 🚀 How to Run the Code
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/SortingAlgo.git
-````
-
-2. Compile any file:
-
-   ```bash
-   g++ filename.cpp
-   ```
-
-3. Run the executable:
-
-   ```bash
-   ./a.out
-   ```
-
----
-
 ## 📌 Note
 
 All implementations are written **purely for learning and logic-building purposes**.
