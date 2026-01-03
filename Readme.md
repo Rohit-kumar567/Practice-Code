@@ -88,10 +88,3 @@ More optimizations, explanations, and variations may be added in the future.
 
 **B Rohit Kumar**
 BTech – Computer Science Engineering (2025)
-DSA & Logic Building Enthusiast
-
----
-
-```
-
----
