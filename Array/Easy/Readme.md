@@ -101,11 +101,113 @@ Output: [2, 3, 4, 5, 1]
 
 ---
 
+### 6. Rotate Array Left or Right by D Places
+**File:** `Left_Right_Rotate_By_D.py`
+
+**Problem:** Rotate an array to the left or right by k positions.
+
+**Approach:**
+- Use the reversal algorithm for efficient rotation
+- For right rotation: reverse entire array, then reverse first k elements, then reverse remaining elements
+- For left rotation: reverse first k elements, then reverse remaining elements, then reverse entire array
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+**Example:**
+```
+Input: [1, 2, 3, 4, 5, 6, 7], k = 2, direction = "right"
+Output: [6, 7, 1, 2, 3, 4, 5]
+```
+
+---
+
+### 7. Linear Search
+**File:** `Linear_search.py`
+
+**Problem:** Search for a specific element in an array and return its index.
+
+**Approach:**
+- Iterate through the array sequentially
+- Return the index when the element is found
+- Return -1 if the element is not present
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+**Example:**
+```
+Input: [1, 2, 3, 4, 5], num = 4
+Output: 3
+```
+
+---
+
+### 8. Find Missing Number
+**File:** `Find_missing_number.py`
+
+**Problem:** Find the missing number in an array containing n-1 elements from the range [1, n].
+
+**Approach:**
+- Calculate the sum of first N natural numbers using formula: N*(N+1)/2
+- Calculate the sum of elements present in the array
+- The difference gives the missing number
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+**Example:**
+```
+Input: [1, 2, 4, 5], N = 5
+Output: 3
+```
+
+---
+
+### 9. Move Zeros to End
+**File:** `Move_zeros_toend.py`
+
+**Problem:** Move all zeros in an array to the end while maintaining the relative order of non-zero elements.
+
+**Approach:**
+- Find the first zero in the array
+- Use two pointers: one at the first zero, another to traverse
+- Swap non-zero elements with the zero pointer and increment it
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+**Example:**
+```
+Input: [0, 1, 0, 3, 12]
+Output: [1, 3, 12, 0, 0]
+```
+
+---
+
+### 10. Union of Two Sorted Arrays
+**File:** `Union.py`
+
+**Problem:** Find the union of two sorted arrays (all unique elements from both arrays in sorted order).
+
+**Approach:**
+- Use two pointers to traverse both arrays simultaneously
+- Add smaller element to result, avoiding duplicates
+- Append remaining elements from either array
+- Time Complexity: O(n + m)
+- Space Complexity: O(n + m) for the result
+
+**Example:**
+```
+Input: arr1 = [1, 2, 3, 4, 5], arr2 = [2, 3, 4, 4, 5, 11, 12]
+Output: [1, 2, 3, 4, 5, 11, 12]
+```
+
+---
+
 ## Key Concepts Practiced
 
 - **Array Traversal:** Iterating through arrays efficiently
-- **Two-Pointer Technique:** Used in duplicate removal
+- **Two-Pointer Technique:** Used in duplicate removal, moving zeros, and union operations
 - **In-place Modifications:** Modifying arrays without extra space
+- **Mathematical Formulas:** Using sum formula to find missing numbers
+- **Reversal Algorithm:** Efficient array rotation technique
 - **Edge Case Handling:** Managing empty arrays and single-element arrays
 - **Time Optimization:** Solving problems in O(n) time without sorting
 
@@ -124,6 +226,12 @@ g++ -std=c++17 Largest_element.cpp -o largest
 ./largest
 ```
 
+For C programs:
+```bash
+gcc filename.c -o output
+./output
+```
+
 ## Learning Outcomes
 
 After solving these problems, you should be comfortable with:
@@ -132,6 +240,8 @@ After solving these problems, you should be comfortable with:
 - Handling edge cases in array problems
 - Understanding space-time tradeoffs
 - Implementing in-place array modifications
+- Using two-pointer technique for optimization
+- Applying mathematical approaches to array problems
 
 ---
 
