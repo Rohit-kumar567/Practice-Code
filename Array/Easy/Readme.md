@@ -201,6 +201,69 @@ Output: [1, 2, 3, 4, 5, 11, 12]
 
 ---
 
+### 11. Longest Subarray with Sum K
+**File:** `Longest_subarray_sum_K.cpp`
+
+**Problem:** Find the length of the longest subarray with sum equal to k (works for arrays with negative numbers).
+
+**Approach:**
+- Use prefix sum technique with a hash map to store prefix sums and their earliest indices
+- For each element, calculate running sum
+- If sum equals k, update max length
+- If (sum - k) exists in map, calculate subarray length
+- Store only the first occurrence of each prefix sum
+- Time Complexity: O(n)
+- Space Complexity: O(n)
+
+**Example:**
+```
+Input: [-1, 1, 1], k = 1
+Output: 3
+```
+
+---
+
+### 12. Maximum Consecutive Ones
+**File:** `Max_consecutive_ones.cpp`
+
+**Problem:** Find the maximum number of consecutive 1's in a binary array.
+
+**Approach:**
+- Maintain a counter for current consecutive 1's
+- Reset counter when 0 is encountered
+- Track the maximum count seen so far
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+**Example:**
+```
+Input: [1, 1, 0, 1, 1, 1]
+Output: 3
+```
+
+---
+
+### 13. Find the Single Non-Repeating Element
+**File:** `number_appears_ons.cpp`
+
+**Problem:** Find the element that appears exactly once in an array where all other elements appear twice.
+
+**Approach:**
+- Find the maximum element to determine hash array size
+- Create a frequency hash array
+- Count occurrences of each element
+- Return the element with frequency 1
+- Time Complexity: O(n)
+- Space Complexity: O(max_element)
+
+**Example:**
+```
+Input: [4, 1, 2, 1, 2]
+Output: 4
+```
+
+---
+
 ## Key Concepts Practiced
 
 - **Array Traversal:** Iterating through arrays efficiently
@@ -210,6 +273,9 @@ Output: [1, 2, 3, 4, 5, 11, 12]
 - **Reversal Algorithm:** Efficient array rotation technique
 - **Edge Case Handling:** Managing empty arrays and single-element arrays
 - **Time Optimization:** Solving problems in O(n) time without sorting
+- **Prefix Sum Technique:** Used for subarray sum problems
+- **Hash Maps:** Efficient frequency counting and lookups
+- **Hash Arrays:** Space-efficient counting for bounded values
 
 ## How to Run
 
@@ -232,6 +298,11 @@ gcc filename.c -o output
 ./output
 ```
 
+For Python programs:
+```bash
+python filename.py
+```
+
 ## Learning Outcomes
 
 After solving these problems, you should be comfortable with:
@@ -242,6 +313,9 @@ After solving these problems, you should be comfortable with:
 - Implementing in-place array modifications
 - Using two-pointer technique for optimization
 - Applying mathematical approaches to array problems
+- Using prefix sum technique for subarray problems
+- Implementing hash-based solutions for frequency problems
+- Working with binary arrays and consecutive elements
 
 ---
 
