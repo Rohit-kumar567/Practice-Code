@@ -144,7 +144,7 @@ g++ -std=c++17 "2Sum Problem.cpp" -o twosum
 * Apply optimized algorithms over brute force
 * Handle edge cases correctly
 * Improve problem-solving and logical thinking
-
-**Author:** B Rohit Kumar
-**CSE Student**
+  
+**Author:** B Rohit Kumar  
+**CSE Student**  
 **Happy Coding!** 🚀
